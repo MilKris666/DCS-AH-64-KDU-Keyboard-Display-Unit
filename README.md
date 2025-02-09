@@ -8,4 +8,4 @@ I used an Arduino UNO and an SSD1322 OLED display with an SPI interface.
 
 Make sure to use the latest version of DCS-BIOS Skunkworks.
 
-Display link: BuyDisplay - Yellow 2.8" OLED (256x64, SPI)
+Display link: https://www.buydisplay.com/yellow-2-8-inch-arduino-raspberry-pi-oled-display-module-256x64-spi
