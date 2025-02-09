@@ -1,0 +1,11 @@
+Demo: https://www.youtube.com/shorts/BCVd3QfQoos
+
+Here is the DCS-BIOS code for the display of the AH-64D Apache KDU (Keyboard Display Unit).
+
+The project is still a Work in Progress (WIP), meaning the 3D files for printing are not available yet. A Thingiverse link will be shared soon.
+
+I used an Arduino UNO and an SSD1322 OLED display with an SPI interface.
+
+Make sure to use the latest version of DCS-BIOS Skunkworks.
+
+Display link: BuyDisplay - Yellow 2.8" OLED (256x64, SPI)
