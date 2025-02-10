@@ -29,7 +29,7 @@ void updateDisplay() {
         u8x8.setFont(u8x8_font_8x13B_1x2_f);  // Sichere & fette Schrift
         u8x8.setCursor(0, 2);
 
-        // 🔥 **Erst alte Zeichen mit Leerzeichen überschreiben (volle Länge)**
+        // **Erst alte Zeichen mit Leerzeichen überschreiben (volle Länge)**
         u8x8.print("                      "); // 22 Leerzeichen (löscht alte Zeichen)
         
         u8x8.setCursor(0, 2);
