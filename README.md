@@ -6,7 +6,7 @@ The project is still a Work in Progress (WIP), meaning the 3D files for printing
 
 I used an Arduino UNO and an SSD1322 OLED display with an SPI interface.
 
-For wiring, see the image "PIN Connection.png".
+For wiring, see the image **"PIN Connection.png"**.
 
 Make sure to use the latest version of DCS-BIOS Skunkworks.
 
