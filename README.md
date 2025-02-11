@@ -12,4 +12,3 @@ For wiring, see the image "PIN Connection.png".
 
 Make sure to use the latest version of DCS-BIOS Skunkworks.
 
-Display link: https://www.buydisplay.com/yellow-2-8-inch-arduino-raspberry-pi-oled-display-module-256x64-spi
