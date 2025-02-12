@@ -48,7 +48,7 @@ void setup() {
 
     // Start-Nachricht anzeigen
     u8x8.setCursor(0, 2);
-    u8x8.print("      AH64 KDU BY MILKRIS");
+    u8x8.print("   AH64 KDU BY MILKRIS");
 
     delay(2000);  // 2 Sekunden warten
     updateDisplay();
