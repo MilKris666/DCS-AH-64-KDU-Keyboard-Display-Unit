@@ -26,7 +26,9 @@ void updateDisplay() {
     if (strcmp(lastDisplayText, pltKuDisplayText) != 0) {  // Nur neu zeichnen, wenn sich der Text geändert hat
         strcpy(lastDisplayText, pltKuDisplayText);  // Speichert letzten angezeigten Text
         
-        u8x8.setFont(u8x8_font_8x13B_1x2_f);  // Sichere & fette Schrift
+        u8x8.setFont(u8x8_font_8x13B_1x2_f);
+
+  // Sichere & fette Schrift
         u8x8.setCursor(0, 2);
 
         // **Erst alte Zeichen mit Leerzeichen überschreiben (volle Länge)**
@@ -46,7 +48,7 @@ void setup() {
 
     // Start-Nachricht anzeigen
     u8x8.setCursor(0, 2);
-    u8x8.print("MilKris' KDU ready!");
+    u8x8.print("      AH64 KDU BY MILKRIS");
 
     delay(2000);  // 2 Sekunden warten
     updateDisplay();
