@@ -9,8 +9,6 @@ The project is still a Work in Progress (WIP).I engraved the labels with a laser
 
 I used an Arduino UNO and an SSD1322 OLED display with an SPI interface.
 
-For wiring, see the image **"PIN Connection.png"**.
-
 Make sure to use the latest version of DCS-BIOS Skunkworks.
 
 There is also a How-To.pdf for details!
