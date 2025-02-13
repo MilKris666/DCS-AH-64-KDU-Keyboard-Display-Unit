@@ -1,7 +1,7 @@
 Demo: https://youtube.com/shorts/2huMgZh5P64
 
-Here is the Arduinio code for the display of the AH-64D Apache KDU (Keyboard Display Unit). 
-<br/>
+Here is my KDU (Keyboard Display Unit) for the DCS AH-64D Apache. The project includes files for 3D printing, laser engraving of the button labels, and, of course, the Arduino code.
+
 
 You can switch the display source from Pilot to CP/Gunner by pressing a button. This button is wired to PIN 7. I integrated this function into the push-button of the rotary encoder for the KU Scratchpad Brightness Knob.
 
