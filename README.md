@@ -5,7 +5,7 @@ Here is the Arduinio code for the display of the AH-64D Apache KDU (Keyboard Dis
 
 You can switch the display source from Pilot to CP/Gunner by pressing a button. This button is wired to PIN 7. I integrated this function into the push-button of the rotary encoder for the KU Scratchpad Brightness Knob.
 
-The project is still a Work in Progress (WIP), meaning the 3D files for printing are not available yet. A Thingiverse link will be shared soon.
+The project is still a Work in Progress (WIP).I engraved the labels with a laser, but I will add another version of the button STLs where the labels are raised so they can be printed directly with a 3D printer.
 
 I used an Arduino UNO and an SSD1322 OLED display with an SPI interface.
 
