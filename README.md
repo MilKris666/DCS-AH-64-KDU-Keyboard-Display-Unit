@@ -3,7 +3,7 @@ Demo: https://www.youtube.com/shorts/BCVd3QfQoos
 Here is the Arduinio code for the display of the AH-64D Apache KDU (Keyboard Display Unit). 
 <br/>
 
-*** ** You can change the source of the display from Pilot to CP/Gunner by pushung a button. This Button is wired to PIN 7 ** ***
+You can change the source of the display from Pilot to CP/Gunner by pushung a button. This Button is wired to ** PIN 7 **  
 
 The project is still a Work in Progress (WIP), meaning the 3D files for printing are not available yet. A Thingiverse link will be shared soon.
 
