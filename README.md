@@ -15,4 +15,4 @@ Make sure to use the latest version of DCS-BIOS Skunkworks.
 
 There is also a How-To.pdf for details!
 
-SSD1322 SPI OLED: https://www.amazon.de/OLED-Display-SSD1322-Grafik-LCD-Modul-Parallel-L%C3%B6tstift-wei%C3%9F/dp/B0DQ52MRX1?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A9KVXEOZANNPE
+
