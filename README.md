@@ -2,6 +2,8 @@
 
 Demo: https://youtube.com/shorts/2huMgZh5P64
 
+DONATE: Feel free to say thanks... https://www.paypal.com/donate/?hosted_button_id=XG6RA9RWPM84Y
+
 Here is my KDU (Keyboard Display Unit) for the DCS AH-64D Apache. The project includes files for 3D printing, laser engraving of the button labels, and, of course, the Arduino code.
 
 
