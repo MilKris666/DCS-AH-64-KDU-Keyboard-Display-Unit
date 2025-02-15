@@ -16,3 +16,5 @@ Make sure to use the latest version of DCS-BIOS Skunkworks.
 There is also a How-To.pdf for details!
 
 
+** LICENSE: **
+Creative Commons Attribution-NonCommercial 4.0 International Public License
