@@ -1,10 +1,11 @@
-// DCS-AH-64 Keyboard-Display-Unit by MilKris 
-// Creative Commons Attribution-NonCommercial 4.0 International Public License
 #include <SPI.h>
 #include <Wire.h>
 #include <U8x8lib.h>
 #define DCSBIOS_IRQ_SERIAL
 #include "DcsBios.h"
+
+// DCS-AH-64 Keyboard-Display-Unit by MilKris 
+// Creative Commons Attribution-NonCommercial 4.0 International Public License
 
 // SSD1322 OLED mit 4-Wire SPI
 U8X8_SSD1322_NHD_256X64_4W_HW_SPI u8x8(10, 9, 8); 
