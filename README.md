@@ -6,7 +6,6 @@ KDU in action: https://www.youtube.com/watch?v=b7H5Edohsew
 
 DONATE: Feel free to say thanks... https://www.paypal.com/donate/?hosted_button_id=XG6RA9RWPM84Y
 
-<iframe width="1169" height="658" src="https://www.youtube.com/embed/b7H5Edohsew" title="AH-64D Apache MPD (Multi-Purpose-Display) Release Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Here is my KDU (Keyboard Display Unit) for the DCS AH-64D Apache. The project includes files for 3D printing, laser engraving of the button labels, and, of course, the Arduino code.
 
