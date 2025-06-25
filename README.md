@@ -1,5 +1,7 @@
 ![Alt text](KDU.jpg)
 
+# 3D files will be updated and available again soon
+
 Demo: https://youtube.com/shorts/2huMgZh5P64
 
 KDU in action: https://www.youtube.com/watch?v=b7H5Edohsew
