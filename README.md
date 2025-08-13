@@ -1,13 +1,8 @@
 ![Alt text](KDU.jpg)
 
-# 3D files will be updated and available again soon
-
 Demo: https://youtube.com/shorts/2huMgZh5P64
 
-KDU in action: https://www.youtube.com/watch?v=b7H5Edohsew
-
-DONATE: Feel free to say thanks... https://www.paypal.com/donate/?hosted_button_id=XG6RA9RWPM84Y
-
+Complete CP/G Frontpanel: https://www.youtube.com/shorts/GwC2EZVeXsk
 
 Here is my KDU (Keyboard Display Unit) for the DCS AH-64D Apache. The project includes files for 3D printing, laser engraving of the button labels, and, of course, the Arduino code.
 
@@ -25,3 +20,5 @@ There is also a How-To.pdf for details!
 
 **LICENSE:**
 Creative Commons Attribution-NonCommercial 4.0 International Public License
+
+# My projects have been downloaded thousands of times in the past. Providing the files and creating a guide is very time-consuming. Since no one is willing to make even a small donation, I have decided to offer the 3D files only for a small fee from now on. https://cults3d.com/de/modell-3d/gadget/ah-64d-kdu-keyboard-display-unit
