@@ -16,7 +16,7 @@ You can switch the display source from Pilot to CP/Gunner by pressing a button. 
 
 I engraved the labels with a laser, but I've added another version of the buttons where the labels are raised so they can be printed directly with a 3D printer.
 
-I used an Arduino UNO and an SSD1322 OLED display with an SPI interface.
+I used an Arduino MEGA and an SSD1322 OLED display with an SPI interface.
 
 Make sure to use the latest version of DCS-BIOS Skunkworks.
 
