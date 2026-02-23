@@ -262,17 +262,17 @@ void setup() {
   u8x8.begin();
   u8x8.setPowerSave(0);
 
-  // Bigger font (double height-ish). If this doesn't compile, tell me your u8g2/u8x8 version.
+  // Bigger font 
   u8x8.setFont(u8x8_font_8x13B_1x2_f);
 
   u8x8.clearDisplay();
-  u8x8.drawString(0, 2, "KDU READY"); // moved down
+  u8x8.drawString(0, 2, "KDU READY"); 
 
   //The layout is initially set in the loop() by gSeatChanged=true
 }
 
 void loop() {
-  // Handle seat changes smoothly (outside of callback)
+  // Handle seat changes 
   if (gSeatChanged) {
     gSeatChanged = false;
     applySeatLayout();
