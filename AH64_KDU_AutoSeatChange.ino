@@ -266,7 +266,7 @@ void setup() {
   u8x8.setFont(u8x8_font_8x13B_1x2_f);
 
   u8x8.clearDisplay();
-  u8x8.drawString(0, 2, "KU READY"); // moved down
+  u8x8.drawString(0, 2, "KDU READY"); // moved down
 
   //The layout is initially set in the loop() by gSeatChanged=true
 }
