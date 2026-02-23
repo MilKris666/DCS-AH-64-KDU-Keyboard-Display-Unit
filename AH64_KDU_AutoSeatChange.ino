@@ -25,7 +25,7 @@
 // =======================================================
 // DISPLAY: SSD1322 256x64, 4-Wire HW SPI (U8x8)
 // Constructor: (CS, DC, RESET)
-// HW SPI pins on MEGA: MOSI=51, SCK=52, MISO=50 (MISO not needed for most Displays)
+// HW SPI pins on MEGA: MOSI=51, SCK=52
 // =======================================================
 U8X8_SSD1322_NHD_256X64_4W_HW_SPI u8x8(10, 9, 8); // CS=10, DC=9, RST=8
 
