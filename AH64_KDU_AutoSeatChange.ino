@@ -11,7 +11,8 @@
 // 
 // This sketch automatically detects whether you are in the PLT or CP/G seat and switches automatically.
 //
-// NOTE: 
+// SEE THE WIRING-INFO IN THE HOW-TO.PDF!!!
+// 
 // #########################################################################################
 
 
