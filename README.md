@@ -10,8 +10,6 @@ Complete CP/G Frontpanel: https://www.youtube.com/shorts/GwC2EZVeXsk
 
 Here is my KDU (Keyboard Display Unit) for the DCS AH-64D Apache. The project includes files for 3D printing, laser engraving of the button labels, and, of course, the Arduino code.
 
-You can switch the display source from Pilot to CP/Gunner by pressing a button. This button is wired to PIN 7. I integrated this function into the push-button of the rotary encoder for the KU Scratchpad Brightness Knob.
-
 I engraved the labels with a laser, but I've added another version of the buttons where the labels are raised so they can be printed directly with a 3D printer.
 
 I used an Arduino MEGA 2560 and a SSD1322 SPI 256x64 green pixels OLED (4-Wire SPI Interface).
