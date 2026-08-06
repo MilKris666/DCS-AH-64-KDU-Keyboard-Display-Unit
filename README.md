@@ -6,7 +6,7 @@ Complete CP/G Frontpanel: https://www.youtube.com/shorts/GwC2EZVeXsk
 
 # This is now Arduino-only KDU! No BBI64 board is required!
 
-# The code has been completely redesigned. It constantly checks whether you are in the pilot or co-pilot/gunner position, and the controls are automatically assigned accordingly. No more switching with a switch! 
+# The code has been completely redesigned. It constantly checks whether you are in the pilot or co-pilot/gunner position, and the controls are automatically assigned accordingly.
 
 Here is my KDU (Keyboard Display Unit) for the DCS AH-64D Apache. The project includes files for 3D printing, laser engraving of the button labels, and, of course, the Arduino code.
 
